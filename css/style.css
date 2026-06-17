@@ -164,7 +164,7 @@ a { color: inherit; }
 }
 
 .person-card {
-  min-height: 280px;
+  min-height: 430px;
   display: flex;
   flex-direction: column;
   gap: 0.7rem;
@@ -173,6 +173,34 @@ a { color: inherit; }
   border-radius: 24px;
   background: linear-gradient(180deg, var(--panel), var(--panel-soft));
   box-shadow: 0 10px 40px rgba(0,0,0,0.18);
+  overflow: hidden;
+}
+
+.image-button {
+  display: block;
+  width: 100%;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  cursor: zoom-in;
+}
+
+.person-image {
+  width: 100%;
+  aspect-ratio: 4 / 5;
+  object-fit: cover;
+  display: block;
+  border-radius: 18px;
+  border: 1px solid var(--border);
+  background: rgba(255,255,255,0.06);
+}
+
+.person-image.placeholder {
+  display: grid;
+  place-items: center;
+  color: var(--accent);
+  font-size: 4rem;
+  font-weight: 900;
 }
 
 .person-card h3 {
@@ -211,6 +239,66 @@ a { color: inherit; }
   border: 1px solid var(--border);
   border-radius: 18px;
   background: rgba(255,255,255,0.05);
+}
+
+.image-modal {
+  position: fixed;
+  inset: 0;
+  z-index: 100;
+  display: none;
+  place-items: center;
+  padding: 1rem;
+}
+
+.image-modal.is-open { display: grid; }
+
+.modal-backdrop {
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.78);
+  backdrop-filter: blur(8px);
+}
+
+.modal-content {
+  position: relative;
+  z-index: 1;
+  max-width: min(820px, 94vw);
+  max-height: 90vh;
+  margin: 0;
+  padding: 1rem;
+  border-radius: 24px;
+  background: #0f172a;
+  border: 1px solid var(--border);
+  box-shadow: var(--shadow);
+}
+
+.modal-content img {
+  max-width: 100%;
+  max-height: 76vh;
+  display: block;
+  border-radius: 18px;
+  object-fit: contain;
+}
+
+.modal-content figcaption {
+  margin-top: 0.6rem;
+  color: var(--muted);
+  text-align: center;
+}
+
+.modal-close {
+  position: absolute;
+  top: -0.9rem;
+  left: -0.9rem;
+  width: 2.5rem;
+  height: 2.5rem;
+  border: 1px solid var(--border);
+  border-radius: 50%;
+  background: var(--accent);
+  color: #1c1607;
+  font-size: 1.6rem;
+  font-weight: 900;
+  cursor: pointer;
 }
 
 .site-footer {
