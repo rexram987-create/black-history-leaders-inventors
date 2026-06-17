@@ -14,6 +14,12 @@ const createImageMarkup = (person) => {
   `;
 };
 
+const createPageLinkMarkup = (person) => {
+  if (!person.page) return '';
+
+  return `<a class="card-link" href="${person.page}">לעמוד המלא</a>`;
+};
+
 const renderCards = (items, containerId) => {
   const container = document.getElementById(containerId);
   if (!container) return;
@@ -26,6 +32,7 @@ const renderCards = (items, containerId) => {
       <div class="meta">${person.years} • ${person.country}</div>
       <p>${person.summaryHe}</p>
       <p><strong>השפעה:</strong> ${person.impactHe}</p>
+      ${createPageLinkMarkup(person)}
     </article>
   `).join('');
 };
