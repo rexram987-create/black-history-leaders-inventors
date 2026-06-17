@@ -4,6 +4,7 @@
     "years": "1818–1895",
     "country": "United States",
     "field": "Abolitionism and civil rights",
+    "image": "images/leaders/frederick-douglass.jpg",
     "summaryHe": "נואם, סופר ומנהיג במאבק לביטול העבדות בארצות הברית. סיפור חייו הפך לסמל של חירות, חינוך והתנגדות לעבדות.",
     "impactHe": "תרם לעיצוב דעת הקהל נגד העבדות ולמאבק לשוויון זכויות אחרי מלחמת האזרחים."
   },
@@ -12,6 +13,7 @@
     "years": "c. 1822–1913",
     "country": "United States",
     "field": "Abolitionism and Underground Railroad",
+    "image": "images/leaders/harriet-tubman.jpg",
     "summaryHe": "פעילה אמיצה שסייעה לעבדים להימלט לחופשי באמצעות רשת הבריחה הידועה בשם Underground Railroad.",
     "impactHe": "נחשבת לאחת הדמויות המרכזיות במאבק האנושי והמעשי נגד העבדות."
   },
@@ -20,6 +22,7 @@
     "years": "1913–2005",
     "country": "United States",
     "field": "Civil rights movement",
+    "image": "images/leaders/rosa-parks.jpg",
     "summaryHe": "סירובה לפנות את מושבה באוטובוס במונטגומרי הפך לאחד הרגעים הסמליים ביותר בתנועת זכויות האזרח.",
     "impactHe": "הציתה מחאה ציבורית רחבה והפכה לסמל של התנגדות לא אלימה להפרדה גזעית."
   },
@@ -28,6 +31,7 @@
     "years": "1929–1968",
     "country": "United States",
     "field": "Civil rights and nonviolent protest",
+    "image": "images/leaders/martin-luther-king-jr.jpg",
     "summaryHe": "כומר ומנהיג זכויות אדם שהוביל מאבקים לא אלימים לשוויון זכויות בארצות הברית.",
     "impactHe": "נאומיו, צעדותיו והנהגתו השפיעו על חקיקת זכויות האזרח בארצות הברית."
   },
@@ -36,6 +40,7 @@
     "years": "1925–1965",
     "country": "United States",
     "field": "Black empowerment and human rights",
+    "image": "images/leaders/malcolm-x.jpg",
     "summaryHe": "מנהיג כריזמטי שדיבר על גאווה שחורה, זכויות אדם והגנה עצמית מול גזענות ממוסדת.",
     "impactHe": "השפיע עמוקות על תנועות לשחרור שחור ועל השיח על זהות, כוח וצדק."
   },
@@ -44,6 +49,7 @@
     "years": "1918–2013",
     "country": "South Africa",
     "field": "Anti-apartheid and statesmanship",
+    "image": "",
     "summaryHe": "מנהיג המאבק באפרטהייד ונשיאה השחור הראשון של דרום אפריקה הדמוקרטית.",
     "impactHe": "הפך לסמל עולמי של פיוס, חירות ומאבק נגד דיכוי גזעי."
   },
@@ -52,6 +58,7 @@
     "years": "1931–2021",
     "country": "South Africa",
     "field": "Human rights and anti-apartheid activism",
+    "image": "",
     "summaryHe": "ארכיבישוף ופעיל זכויות אדם מדרום אפריקה, מן הקולות הבולטים נגד האפרטהייד.",
     "impactHe": "פעל למען פיוס לאומי, צדק חברתי וזכויות אדם בדרום אפריקה ובעולם."
   },
@@ -60,6 +67,7 @@
     "years": "1909–1972",
     "country": "Ghana",
     "field": "African independence and Pan-Africanism",
+    "image": "",
     "summaryHe": "ממנהיגי העצמאות של גאנה ודמות מרכזית בתנועה הפאן-אפריקאית.",
     "impactHe": "השפיע על תנועות עצמאות רבות באפריקה ועל רעיון האחדות האפריקאית."
   }
