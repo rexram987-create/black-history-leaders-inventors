@@ -59,7 +59,67 @@ This document lists the image files used in the project and their known source/l
 - Source: Wikimedia Commons / The National Archives UK - Flickr account
 - License shown in uploaded reference: Open Government Licence version 1.0
 
+## Scientists and Inventors
+
+### George Washington Carver
+
+- File in repository: `images/scientists/george-washington-carver.jpg`
+- Source: Wikimedia Commons or another open source used by the project
+- License: To be documented from the original file page
+- Credit/creator: To be documented
+
+### Garrett Morgan
+
+- File in repository: `images/scientists/garrett-morgan.jpg`
+- Source: Wikimedia Commons or another open source used by the project
+- License: To be documented from the original file page
+- Credit/creator: To be documented
+
+### Katherine Johnson
+
+- File in repository: `images/scientists/katherine-johnson.jpg`
+- Source: Wikimedia Commons or another open source used by the project
+- License: To be documented from the original file page
+- Credit/creator: To be documented
+
+### Mae Jemison
+
+- File in repository: `images/scientists/mae-jemison.jpg`
+- Source: Wikimedia Commons or another open source used by the project
+- License: To be documented from the original file page
+- Credit/creator: To be documented
+
+### Lewis Latimer
+
+- File in repository: `images/scientists/lewis-latimer.jpg`
+- Source: Wikimedia Commons or another open source used by the project
+- License: To be documented from the original file page
+- Credit/creator: To be documented
+
+### Elijah McCoy
+
+- File in repository: `images/scientists/elijah-mccoy.jpg`
+- Source: Wikimedia Commons or another open source used by the project
+- License: To be documented from the original file page
+- Credit/creator: To be documented
+
+### Patricia Bath
+
+- File in repository: `images/scientists/patricia-bath.jpg`
+- Source: Wikimedia Commons or another open source used by the project
+- License: To be documented from the original file page
+- Credit/creator: To be documented
+
+### Charles Drew
+
+- File in repository: `images/scientists/charles-drew.jpg`
+- Source: Wikimedia Commons or another open source used by the project
+- License: To be documented from the original file page
+- Credit/creator: To be documented
+
 ## Recommended GitHub-friendly filenames
+
+### Leaders
 
 - `frederick-douglass.jpg`
 - `harriet-tubman.jpg`
@@ -69,3 +129,14 @@ This document lists the image files used in the project and their known source/l
 - `nelson-mandela.jpg`
 - `desmond-tutu.jpg`
 - `kwame-nkrumah.jpg`
+
+### Scientists and Inventors
+
+- `george-washington-carver.jpg`
+- `garrett-morgan.jpg`
+- `katherine-johnson.jpg`
+- `mae-jemison.jpg`
+- `lewis-latimer.jpg`
+- `elijah-mccoy.jpg`
+- `patricia-bath.jpg`
+- `charles-drew.jpg`
