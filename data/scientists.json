@@ -1,0 +1,66 @@
+[
+  {
+    "name": "George Washington Carver",
+    "years": "c. 1864–1943",
+    "country": "United States",
+    "field": "Agricultural science",
+    "summaryHe": "מדען חקלאות שחקר גידולים חלופיים ושיטות לשיפור הקרקע, במיוחד בדרום ארצות הברית.",
+    "impactHe": "תרם להפצת ידע חקלאי מעשי ולשיפור חקלאות בת קיימא בתקופתו."
+  },
+  {
+    "name": "Garrett Morgan",
+    "years": "1877–1963",
+    "country": "United States",
+    "field": "Invention and safety technology",
+    "summaryHe": "ממציא ויזם שפיתח התקני בטיחות חשובים, ובהם מסכת נשימה ושיפורים במערכות איתות תנועה.",
+    "impactHe": "המצאותיו תרמו לבטיחות עירונית ותעשייתית."
+  },
+  {
+    "name": "Katherine Johnson",
+    "years": "1918–2020",
+    "country": "United States",
+    "field": "Mathematics and spaceflight",
+    "summaryHe": "מתמטיקאית ב-NASA שחישוביה סייעו למשימות חלל אמריקאיות מרכזיות.",
+    "impactHe": "תרומתה מדגישה את חשיבות המתמטיקה המדויקת בפריצות דרך בחקר החלל."
+  },
+  {
+    "name": "Mae Jemison",
+    "years": "1956–",
+    "country": "United States",
+    "field": "Medicine and space exploration",
+    "summaryHe": "רופאה, מהנדסת ואסטרונאוטית, האישה השחורה הראשונה שטסה לחלל.",
+    "impactHe": "הפכה לסמל של פריצת גבולות במדע, חלל וחינוך מדעי."
+  },
+  {
+    "name": "Lewis Latimer",
+    "years": "1848–1928",
+    "country": "United States",
+    "field": "Electrical engineering and invention",
+    "summaryHe": "ממציא ומהנדס שתרם לפיתוח טכנולוגיות תאורה חשמלית ולתיעוד פטנטים.",
+    "impactHe": "השפיע על התפתחות התאורה החשמלית ועל תעשיית החשמל המוקדמת."
+  },
+  {
+    "name": "Elijah McCoy",
+    "years": "1844–1929",
+    "country": "Canada / United States",
+    "field": "Mechanical engineering",
+    "summaryHe": "מהנדס וממציא שפיתח מערכות שימון אוטומטיות למנועים ולרכבות.",
+    "impactHe": "המצאותיו שיפרו יעילות ובטיחות בתעשייה וברכבות."
+  },
+  {
+    "name": "Patricia Bath",
+    "years": "1942–2019",
+    "country": "United States",
+    "field": "Medicine and ophthalmology",
+    "summaryHe": "רופאת עיניים וממציאה שפיתחה טכנולוגיה לטיפול בקטרקט.",
+    "impactHe": "תרמה לקידום רפואת עיניים ולגישה שוויונית יותר לטיפול רפואי."
+  },
+  {
+    "name": "Charles Drew",
+    "years": "1904–1950",
+    "country": "United States",
+    "field": "Medicine and blood banking",
+    "summaryHe": "רופא וחוקר שפיתח שיטות חשובות לשימור פלזמה ולניהול בנקי דם.",
+    "impactHe": "עבודתו השפיעה על רפואת חירום, עירויי דם והצלת חיים."
+  }
+]
